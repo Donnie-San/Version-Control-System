@@ -12,3 +12,4 @@ C:\Users\donni\Desktop\Version Control System\ConsoleApp\obj\Debug\net9.0\refint
 C:\Users\donni\Desktop\Version Control System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
 C:\Users\donni\Desktop\Version Control System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\donni\Desktop\Version Control System\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
+C:\Users\donni\Desktop\Version Control System\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
